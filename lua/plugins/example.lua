@@ -54,6 +54,7 @@ return {
       },
       extensions_list = {"fzf", "terms", "themes"},
     },
+  },
 
   -- add pyright to lspconfig
   {
